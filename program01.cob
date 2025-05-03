@@ -14,9 +14,11 @@
        WORKING-STORAGE SECTION.
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
+      *==  uma mesagem de texto entre duas pessoas
        DISPLAY "Ola Caio"
        DISPLAY "Tudo bem"
        DISPLAY "Boa noite"
-       DISPLAY "Ola Mundo"
+       DISPLAY "vc e Programador"
+       DISPLAY 'sim eu sou Programador'
        STOP RUN.
        END PROGRAM YOUR-PROGRAM-NAME.
